@@ -1,0 +1,19 @@
+# Ignore build outputs
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Ignore IDE files
+.idea/
+.vscode/
+*.iml
+
+# Ignore Git files
+.git/
+.gitignore
+
+# Ignore logs and system files
+*.log
+.DS_Store
+
+# Ignore environment variables if any
+.env
