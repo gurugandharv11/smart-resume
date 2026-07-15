@@ -1,3 +1,4 @@
+
 # 📄 Smart Resume Analyzer
 
 A **Full Stack Resume Analyzer** web application built for campus placement interviews.
@@ -229,3 +230,6 @@ MySQL Database
 ---
 
 *Built with ❤️ — Spring Boot + React + MySQL*
+# smart-resume
+AI-powered Smart Resume Analyzer built with React and Spring Boot.
+441dc13099724fbe6770bd6fb5f24beee0ba4952
