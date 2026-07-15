@@ -19,4 +19,8 @@ ENV PORT=8080
 
 EXPOSE 8080
 
+HEAD
 CMD ["sh", "-c", "java -Dserver.port=$PORT -jar app.jar"]
+=======
+CMD ["sh", "-c", "java -Dserver.port=$PORT -jar app.jar"]
+2bb167b44a3ec185440dc3a3313c3d8f69d0b798
